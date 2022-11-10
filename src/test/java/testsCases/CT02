@@ -1,0 +1,6 @@
+CT02- Acessar a home do Prime Video através do menu “Todos”.
+Pré condição: Estar logado na conta da Amazon https://www.amazon.com.br/
+Steps:    1- Clicar no menu “Todos”;
+	2- Clicar na opção “Prime Video”;
+	3- Clicar na opção “Todos os títulos”.
+Resultado Esperado: Deve ser possível acessar a home do Prime Video.
